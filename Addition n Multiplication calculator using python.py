@@ -14,5 +14,5 @@ elif(p=="b"):
         asd=asd*d
     print("\nAnswer is : ",asd)
 print("\n\n\nThank you for using this calculator")
-print("thesaraks.com")
+print("thesara.one")
 input("\n*Press ENTER to exit")
